@@ -1,4 +1,4 @@
 # assign1git
 Chris Kennedy
 First Comment
-Test branch change
+This is a change on new branch that is merged.
